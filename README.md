@@ -5,3 +5,5 @@ This is the batch file from the tweakcentral.net website. It's almost three year
 
 Copyright is not intended. This batch file was not created by me. I do not own anything in this batch, including the script file.
 This batch file was not created by me.
+
+                                                   RUN IT AS ADMIN!!!
